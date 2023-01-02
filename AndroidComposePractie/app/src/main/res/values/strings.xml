@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidComposePractie</string>
+    <string name="greeting_message">Happy Birthday</string>
+</resources>
